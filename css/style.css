@@ -1469,7 +1469,7 @@ ul#additional_links li:after {
 }
 .hero_single.version_4 {
   height: 620px;
-  background: #004dda url(../img/pattern_1.svg) center bottom repeat-x;
+  background: #dc3545 url(../img/pattern_2.svg) center bottom repeat-x;
 }
 .hero_single.version_4 .wrapper {
   background: rgba(0, 0, 0, 0.6);
